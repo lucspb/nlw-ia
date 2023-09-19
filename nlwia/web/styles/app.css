@@ -10,19 +10,16 @@
     margin-top: -5px;
 }
 
-#app > img{
-    width: 64px;
-}
-
 #app > h2{
     align-self: flex-start;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 #app > p{
     align-self: flex-start;
     text-align: justify;
     width: 500px;
+    margin-top: -5px;
 }
 
 #app .placeholder {
